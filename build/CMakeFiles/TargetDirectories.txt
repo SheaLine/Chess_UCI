@@ -1,0 +1,9 @@
+C:/Users/sline/Documents/UCSC/CMPM 123/Assignment8/Chess_UCI/build/CMakeFiles/Experimental.dir
+C:/Users/sline/Documents/UCSC/CMPM 123/Assignment8/Chess_UCI/build/CMakeFiles/Nightly.dir
+C:/Users/sline/Documents/UCSC/CMPM 123/Assignment8/Chess_UCI/build/CMakeFiles/Continuous.dir
+C:/Users/sline/Documents/UCSC/CMPM 123/Assignment8/Chess_UCI/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/sline/Documents/UCSC/CMPM 123/Assignment8/Chess_UCI/build/CMakeFiles/chess.dir
+C:/Users/sline/Documents/UCSC/CMPM 123/Assignment8/Chess_UCI/build/CMakeFiles/PACKAGE.dir
+C:/Users/sline/Documents/UCSC/CMPM 123/Assignment8/Chess_UCI/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/sline/Documents/UCSC/CMPM 123/Assignment8/Chess_UCI/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/sline/Documents/UCSC/CMPM 123/Assignment8/Chess_UCI/build/CMakeFiles/ZERO_CHECK.dir

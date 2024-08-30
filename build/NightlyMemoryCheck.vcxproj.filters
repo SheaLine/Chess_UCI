@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment8\Chess_UCI\build\CMakeFiles\38c1856b659222af82cdecb1384d08f6\NightlyMemoryCheck.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment8\Chess_UCI\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\sline\Documents\UCSC\CMPM 123\Assignment8\Chess_UCI\build\CMakeFiles\NightlyMemoryCheck" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BE7AE539-846C-3A13-807F-A096B4DE76DA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

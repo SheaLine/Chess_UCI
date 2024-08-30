@@ -1,0 +1,178 @@
+RUNNING NEW GAME
+
+uci
+quit
+RUNNING NEW GAME
+
+uci
+isready
+ucinewgame
+position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4
+go wtime 900000 btime 898700
+AI IS WHITE
+bestmove f2f3
+quit
+RUNNING NEW GAME
+
+uci
+isready
+ucinewgame
+position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 d7d5 c2c4 d5c4
+go wtime 899600 btime 894500
+AI IS WHITE
+bestmove f2f3
+quit
+RUNNING NEW GAME
+
+uci
+isready
+ucinewgame
+position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 d7d5 c2c4 c8f5
+go wtime 899200 btime 892100
+AI IS WHITE
+bestmove f2f3
+quit
+RUNNING NEW GAME
+
+uci
+isready
+ucinewgame
+position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 d7d5 c2c4 c8f5
+go wtime 899700 btime 892100
+AI IS WHITE
+bestmove f2f3
+quit
+RUNNING NEW GAME
+
+uci
+isready
+ucinewgame
+position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves g1f3 d7d5 d2d4 c8f5
+go wtime 899600 btime 890900
+AI IS WHITE
+bestmove f2f3
+quit
+RUNNING NEW GAME
+
+uci
+isready
+ucinewgame
+position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves 
+go wtime 900000 btime 900000
+AI IS WHITE
+bestmove f2f3
+quit
+RUNNING NEW GAME
+
+uci
+isready
+ucinewgame
+position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 d7d5 e2e3
+go wtime 896600 btime 899600
+AI IS WHITE
+bestmove f2f3
+quit
+RUNNING NEW GAME
+
+uci
+isready
+ucinewgame
+position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 e7e5 g1f3 d7d6
+go wtime 899600 btime 894600
+AI IS WHITE
+bestmove f2f3
+quit
+RUNNING NEW GAME
+
+uci
+isready
+ucinewgame
+position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves 
+go wtime 900000 btime 900000
+AI IS WHITE
+bestmove f2f3
+quit
+RUNNING NEW GAME
+
+uci
+isready
+ucinewgame
+position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 d7d5 e2e3
+go wtime 896700 btime 899600
+AI IS WHITE
+bestmove f2f3
+quit
+RUNNING NEW GAME
+
+uci
+isready
+ucinewgame
+position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4
+go wtime 900000 btime 899800
+AI IS WHITE
+bestmove f2f3
+quit
+RUNNING NEW GAME
+
+uci
+isready
+ucinewgame
+position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4
+go wtime 900000 btime 899900
+AI IS WHITE
+bestmove f2f3
+quit
+RUNNING NEW GAME
+
+uci
+isready
+ucinewgame
+position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 d7d5 e2e3
+go wtime 895400 btime 899600
+AI IS WHITE
+bestmove f2f3
+quit
+RUNNING NEW GAME
+
+uci
+isready
+ucinewgame
+position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4
+go wtime 900000 btime 899800
+AI IS WHITE
+bestmove f2f3
+quit
+RUNNING NEW GAME
+
+uci
+isready
+ucinewgame
+position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4
+go wtime 900000 btime 899900
+AI IS WHITE
+bestmove f2f3
+quit
+RUNNING NEW GAME
+
+uci
+isready
+ucinewgame
+position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves 
+go wtime 900000 btime 900000
+AI IS WHITE
+bestmove f2f3
+quit
+RUNNING NEW GAME
+
+uci
+isready
+ucinewgame
+RUNNING NEW GAME
+
+uci
+quit
+position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 c7c5 d2d3
+go wtime 892900 btime 898800
+AI IS WHITE
+bestmove f2f3
+quit
